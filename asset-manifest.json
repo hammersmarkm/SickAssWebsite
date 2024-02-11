@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/SickAssWebsite/static/css/main.21759421.css",
+    "main.css": "/SickAssWebsite/static/css/main.c076fc28.css",
     "main.js": "/SickAssWebsite/static/js/main.800b5d81.js",
     "static/media/logo.svg": "/SickAssWebsite/static/media/logo.8b37314af6ad3b91e5105eb212543a75.svg",
     "index.html": "/SickAssWebsite/index.html",
-    "main.21759421.css.map": "/SickAssWebsite/static/css/main.21759421.css.map",
+    "main.c076fc28.css.map": "/SickAssWebsite/static/css/main.c076fc28.css.map",
     "main.800b5d81.js.map": "/SickAssWebsite/static/js/main.800b5d81.js.map"
   },
   "entrypoints": [
-    "static/css/main.21759421.css",
+    "static/css/main.c076fc28.css",
     "static/js/main.800b5d81.js"
   ]
 }
